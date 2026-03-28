@@ -1,0 +1,14 @@
+C:\Users\sinic\OneDrive\Desktop\Códigos e Projetos\Projeto_DotNet_Revisao\projeto_dotnet_console_exercicios\bin\Debug\net8.0\projeto_dotnet_console_exercicios.exe
+C:\Users\sinic\OneDrive\Desktop\Códigos e Projetos\Projeto_DotNet_Revisao\projeto_dotnet_console_exercicios\bin\Debug\net8.0\projeto_dotnet_console_exercicios.deps.json
+C:\Users\sinic\OneDrive\Desktop\Códigos e Projetos\Projeto_DotNet_Revisao\projeto_dotnet_console_exercicios\bin\Debug\net8.0\projeto_dotnet_console_exercicios.runtimeconfig.json
+C:\Users\sinic\OneDrive\Desktop\Códigos e Projetos\Projeto_DotNet_Revisao\projeto_dotnet_console_exercicios\bin\Debug\net8.0\projeto_dotnet_console_exercicios.dll
+C:\Users\sinic\OneDrive\Desktop\Códigos e Projetos\Projeto_DotNet_Revisao\projeto_dotnet_console_exercicios\bin\Debug\net8.0\projeto_dotnet_console_exercicios.pdb
+C:\Users\sinic\OneDrive\Desktop\Códigos e Projetos\Projeto_DotNet_Revisao\projeto_dotnet_console_exercicios\obj\Debug\net8.0\projeto_dotnet_console_exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sinic\OneDrive\Desktop\Códigos e Projetos\Projeto_DotNet_Revisao\projeto_dotnet_console_exercicios\obj\Debug\net8.0\projeto_dotnet_console_exercicios.AssemblyInfoInputs.cache
+C:\Users\sinic\OneDrive\Desktop\Códigos e Projetos\Projeto_DotNet_Revisao\projeto_dotnet_console_exercicios\obj\Debug\net8.0\projeto_dotnet_console_exercicios.AssemblyInfo.cs
+C:\Users\sinic\OneDrive\Desktop\Códigos e Projetos\Projeto_DotNet_Revisao\projeto_dotnet_console_exercicios\obj\Debug\net8.0\projeto_dotnet_console_exercicios.csproj.CoreCompileInputs.cache
+C:\Users\sinic\OneDrive\Desktop\Códigos e Projetos\Projeto_DotNet_Revisao\projeto_dotnet_console_exercicios\obj\Debug\net8.0\projeto_dotnet_console_exercicios.dll
+C:\Users\sinic\OneDrive\Desktop\Códigos e Projetos\Projeto_DotNet_Revisao\projeto_dotnet_console_exercicios\obj\Debug\net8.0\refint\projeto_dotnet_console_exercicios.dll
+C:\Users\sinic\OneDrive\Desktop\Códigos e Projetos\Projeto_DotNet_Revisao\projeto_dotnet_console_exercicios\obj\Debug\net8.0\projeto_dotnet_console_exercicios.pdb
+C:\Users\sinic\OneDrive\Desktop\Códigos e Projetos\Projeto_DotNet_Revisao\projeto_dotnet_console_exercicios\obj\Debug\net8.0\projeto_dotnet_console_exercicios.genruntimeconfig.cache
+C:\Users\sinic\OneDrive\Desktop\Códigos e Projetos\Projeto_DotNet_Revisao\projeto_dotnet_console_exercicios\obj\Debug\net8.0\ref\projeto_dotnet_console_exercicios.dll
