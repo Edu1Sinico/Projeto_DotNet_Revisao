@@ -9,17 +9,21 @@ internal class Program
         CalculadoraIMC calcIMC = new CalculadoraIMC();
         Tabuada tabuada = new Tabuada();
         Fatorial fatorial = new Fatorial();
+        Fibonacci fibonacci = new Fibonacci();
 
-        // Exercício Calculadora Básica
-        calc.menuCalculadora();
+        // // Exercício Calculadora Básica
+        // calc.menuCalculadora();
 
-        // Exercício Calculadora IMC
-        calcIMC.menuCalculadoraIMC();
+        // // Exercício Calculadora IMC
+        // calcIMC.menuCalculadoraIMC();
 
-        // Exercício da Tabuada
-        tabuada.menuTabuada();
+        // // Exercício da Tabuada
+        // tabuada.menuTabuada();
 
-        // Exercício de Fatorial
-        fatorial.menuFatorial();
+        // // Exercício de Fatorial
+        // fatorial.menuFatorial();
+
+        // Exercício de Fibonacci
+        fibonacci.menuFibonacci();
     }
 }
