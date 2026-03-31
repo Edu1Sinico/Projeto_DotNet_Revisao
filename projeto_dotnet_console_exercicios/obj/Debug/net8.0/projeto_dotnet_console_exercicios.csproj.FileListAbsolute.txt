@@ -42,3 +42,18 @@ C:\Users\Aluno\Documents\Projeto_DotNet_Revisao\projeto_dotnet_console_exercicio
 C:\Users\Aluno\Documents\Projeto_DotNet_Revisao\projeto_dotnet_console_exercicios\obj\Debug\net8.0\projeto_dotnet_console_exercicios.pdb
 C:\Users\Aluno\Documents\Projeto_DotNet_Revisao\projeto_dotnet_console_exercicios\obj\Debug\net8.0\projeto_dotnet_console_exercicios.genruntimeconfig.cache
 C:\Users\Aluno\Documents\Projeto_DotNet_Revisao\projeto_dotnet_console_exercicios\obj\Debug\net8.0\ref\projeto_dotnet_console_exercicios.dll
+C:\Users\B 789\Downloads\Projeto_DotNet_Revisao\projeto_dotnet_console_exercicios\bin\Debug\net8.0\projeto_dotnet_console_exercicios.exe
+C:\Users\B 789\Downloads\Projeto_DotNet_Revisao\projeto_dotnet_console_exercicios\bin\Debug\net8.0\projeto_dotnet_console_exercicios.deps.json
+C:\Users\B 789\Downloads\Projeto_DotNet_Revisao\projeto_dotnet_console_exercicios\bin\Debug\net8.0\projeto_dotnet_console_exercicios.runtimeconfig.json
+C:\Users\B 789\Downloads\Projeto_DotNet_Revisao\projeto_dotnet_console_exercicios\bin\Debug\net8.0\projeto_dotnet_console_exercicios.dll
+C:\Users\B 789\Downloads\Projeto_DotNet_Revisao\projeto_dotnet_console_exercicios\bin\Debug\net8.0\projeto_dotnet_console_exercicios.pdb
+C:\Users\B 789\Downloads\Projeto_DotNet_Revisao\projeto_dotnet_console_exercicios\obj\Debug\net8.0\projeto_dotnet_console_exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B 789\Downloads\Projeto_DotNet_Revisao\projeto_dotnet_console_exercicios\obj\Debug\net8.0\projeto_dotnet_console_exercicios.AssemblyInfoInputs.cache
+C:\Users\B 789\Downloads\Projeto_DotNet_Revisao\projeto_dotnet_console_exercicios\obj\Debug\net8.0\projeto_dotnet_console_exercicios.AssemblyInfo.cs
+C:\Users\B 789\Downloads\Projeto_DotNet_Revisao\projeto_dotnet_console_exercicios\obj\Debug\net8.0\projeto_dotnet_console_exercicios.csproj.CoreCompileInputs.cache
+C:\Users\B 789\Downloads\Projeto_DotNet_Revisao\projeto_dotnet_console_exercicios\obj\Debug\net8.0\projeto_dotnet_console_exercicios.sourcelink.json
+C:\Users\B 789\Downloads\Projeto_DotNet_Revisao\projeto_dotnet_console_exercicios\obj\Debug\net8.0\projeto_dotnet_console_exercicios.dll
+C:\Users\B 789\Downloads\Projeto_DotNet_Revisao\projeto_dotnet_console_exercicios\obj\Debug\net8.0\refint\projeto_dotnet_console_exercicios.dll
+C:\Users\B 789\Downloads\Projeto_DotNet_Revisao\projeto_dotnet_console_exercicios\obj\Debug\net8.0\projeto_dotnet_console_exercicios.pdb
+C:\Users\B 789\Downloads\Projeto_DotNet_Revisao\projeto_dotnet_console_exercicios\obj\Debug\net8.0\projeto_dotnet_console_exercicios.genruntimeconfig.cache
+C:\Users\B 789\Downloads\Projeto_DotNet_Revisao\projeto_dotnet_console_exercicios\obj\Debug\net8.0\ref\projeto_dotnet_console_exercicios.dll

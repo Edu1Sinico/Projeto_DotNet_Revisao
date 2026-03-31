@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\Documents\\Projeto_DotNet_Revisao\\projeto_dotnet_console_exercicios\\projeto_dotnet_console_exercicios.csproj": {}
+    "C:\\Users\\B 789\\Downloads\\Projeto_DotNet_Revisao\\projeto_dotnet_console_exercicios\\projeto_dotnet_console_exercicios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\Documents\\Projeto_DotNet_Revisao\\projeto_dotnet_console_exercicios\\projeto_dotnet_console_exercicios.csproj": {
+    "C:\\Users\\B 789\\Downloads\\Projeto_DotNet_Revisao\\projeto_dotnet_console_exercicios\\projeto_dotnet_console_exercicios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\Documents\\Projeto_DotNet_Revisao\\projeto_dotnet_console_exercicios\\projeto_dotnet_console_exercicios.csproj",
+        "projectUniqueName": "C:\\Users\\B 789\\Downloads\\Projeto_DotNet_Revisao\\projeto_dotnet_console_exercicios\\projeto_dotnet_console_exercicios.csproj",
         "projectName": "projeto_dotnet_console_exercicios",
-        "projectPath": "C:\\Users\\Aluno\\Documents\\Projeto_DotNet_Revisao\\projeto_dotnet_console_exercicios\\projeto_dotnet_console_exercicios.csproj",
-        "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\Documents\\Projeto_DotNet_Revisao\\projeto_dotnet_console_exercicios\\obj\\",
+        "projectPath": "C:\\Users\\B 789\\Downloads\\Projeto_DotNet_Revisao\\projeto_dotnet_console_exercicios\\projeto_dotnet_console_exercicios.csproj",
+        "packagesPath": "C:\\Users\\B 789\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\B 789\\Downloads\\Projeto_DotNet_Revisao\\projeto_dotnet_console_exercicios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\B 789\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

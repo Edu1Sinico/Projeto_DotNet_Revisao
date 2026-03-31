@@ -9,7 +9,7 @@ namespace projeto_dotnet_console_exercicios
     {
 
         int num = 0;
-        double result = 1;
+        int result = 1;
         int opcao = 1;
 
         public void menuFatorial()
@@ -21,12 +21,7 @@ namespace projeto_dotnet_console_exercicios
                 Console.Write("Digite um número inteiro: ");
                 num = Int32.Parse(Console.ReadLine());
 
-                for (int i = 0; i < num; i++)
-                {
-                    result *= num-i;
-                }
-
-                Console.WriteLine($"\nResultado do fatorial do número: {num}: {result}.\n");
+                Console.WriteLine($"\nResultado do fatorial do número: {num}: {fatorial(num)}.\n");
 
                 Console.Write("\nDeseja continuar?"
                                 + "\nQualquer número - Sim"
@@ -35,6 +30,15 @@ namespace projeto_dotnet_console_exercicios
                 opcao = Int32.Parse(Console.ReadLine());
             } while (opcao != 0);
 
+        }
+
+        public int fatorial(int num1)
+        {
+            for (int i = 0; i < num; i++)
+            {
+                result *= num - i;
+            }
+            return result;
         }
     }
 }
