@@ -10,6 +10,7 @@ internal class Program
         Tabuada tabuada = new Tabuada();
         Fatorial fatorial = new Fatorial();
         Fibonacci fibonacci = new Fibonacci();
+        NumerosPrimos nPrimos = new NumerosPrimos();
 
         // // Exercício Calculadora Básica
         // calc.menuCalculadora();
@@ -23,7 +24,10 @@ internal class Program
         // // Exercício de Fatorial
         // fatorial.menuFatorial();
 
-        // Exercício de Fibonacci
-        fibonacci.menuFibonacci();
+        // // Exercício de Fibonacci
+        // fibonacci.menuFibonacci();
+
+        // Exercício de Números Primos
+        nPrimos.menuNumeroPrimo();
     }
 }
