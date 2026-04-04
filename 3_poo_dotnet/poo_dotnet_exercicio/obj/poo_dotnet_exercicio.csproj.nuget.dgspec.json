@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sinic\\OneDrive\\Desktop\\Códigos e Projetos\\Projeto_DotNet_Revisao\\fundamentos_dotnet\\fundamentos_dotnet_introducao\\fundamentos_dotnet_introducao.csproj": {}
+    "C:\\Users\\sinic\\OneDrive\\Desktop\\Códigos e Projetos\\Projeto_DotNet_Revisao\\3_poo_dotnet\\poo_dotnet_exercicio\\poo_dotnet_exercicio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sinic\\OneDrive\\Desktop\\Códigos e Projetos\\Projeto_DotNet_Revisao\\fundamentos_dotnet\\fundamentos_dotnet_introducao\\fundamentos_dotnet_introducao.csproj": {
+    "C:\\Users\\sinic\\OneDrive\\Desktop\\Códigos e Projetos\\Projeto_DotNet_Revisao\\3_poo_dotnet\\poo_dotnet_exercicio\\poo_dotnet_exercicio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sinic\\OneDrive\\Desktop\\Códigos e Projetos\\Projeto_DotNet_Revisao\\fundamentos_dotnet\\fundamentos_dotnet_introducao\\fundamentos_dotnet_introducao.csproj",
-        "projectName": "fundamentos_dotnet_introducao",
-        "projectPath": "C:\\Users\\sinic\\OneDrive\\Desktop\\Códigos e Projetos\\Projeto_DotNet_Revisao\\fundamentos_dotnet\\fundamentos_dotnet_introducao\\fundamentos_dotnet_introducao.csproj",
+        "projectUniqueName": "C:\\Users\\sinic\\OneDrive\\Desktop\\Códigos e Projetos\\Projeto_DotNet_Revisao\\3_poo_dotnet\\poo_dotnet_exercicio\\poo_dotnet_exercicio.csproj",
+        "projectName": "poo_dotnet_exercicio",
+        "projectPath": "C:\\Users\\sinic\\OneDrive\\Desktop\\Códigos e Projetos\\Projeto_DotNet_Revisao\\3_poo_dotnet\\poo_dotnet_exercicio\\poo_dotnet_exercicio.csproj",
         "packagesPath": "C:\\Users\\sinic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sinic\\OneDrive\\Desktop\\Códigos e Projetos\\Projeto_DotNet_Revisao\\fundamentos_dotnet\\fundamentos_dotnet_introducao\\obj\\",
+        "outputPath": "C:\\Users\\sinic\\OneDrive\\Desktop\\Códigos e Projetos\\Projeto_DotNet_Revisao\\3_poo_dotnet\\poo_dotnet_exercicio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sinic\\AppData\\Roaming\\NuGet\\NuGet.Config"

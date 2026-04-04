@@ -1,0 +1,15 @@
+C:\Users\sinic\OneDrive\Desktop\Códigos e Projetos\Projeto_DotNet_Revisao\3_poo_dotnet\poo_dotnet_exercicio\bin\Debug\net8.0\poo_dotnet_exercicio.exe
+C:\Users\sinic\OneDrive\Desktop\Códigos e Projetos\Projeto_DotNet_Revisao\3_poo_dotnet\poo_dotnet_exercicio\bin\Debug\net8.0\poo_dotnet_exercicio.deps.json
+C:\Users\sinic\OneDrive\Desktop\Códigos e Projetos\Projeto_DotNet_Revisao\3_poo_dotnet\poo_dotnet_exercicio\bin\Debug\net8.0\poo_dotnet_exercicio.runtimeconfig.json
+C:\Users\sinic\OneDrive\Desktop\Códigos e Projetos\Projeto_DotNet_Revisao\3_poo_dotnet\poo_dotnet_exercicio\bin\Debug\net8.0\poo_dotnet_exercicio.dll
+C:\Users\sinic\OneDrive\Desktop\Códigos e Projetos\Projeto_DotNet_Revisao\3_poo_dotnet\poo_dotnet_exercicio\bin\Debug\net8.0\poo_dotnet_exercicio.pdb
+C:\Users\sinic\OneDrive\Desktop\Códigos e Projetos\Projeto_DotNet_Revisao\3_poo_dotnet\poo_dotnet_exercicio\obj\Debug\net8.0\poo_dotnet_exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sinic\OneDrive\Desktop\Códigos e Projetos\Projeto_DotNet_Revisao\3_poo_dotnet\poo_dotnet_exercicio\obj\Debug\net8.0\poo_dotnet_exercicio.AssemblyInfoInputs.cache
+C:\Users\sinic\OneDrive\Desktop\Códigos e Projetos\Projeto_DotNet_Revisao\3_poo_dotnet\poo_dotnet_exercicio\obj\Debug\net8.0\poo_dotnet_exercicio.AssemblyInfo.cs
+C:\Users\sinic\OneDrive\Desktop\Códigos e Projetos\Projeto_DotNet_Revisao\3_poo_dotnet\poo_dotnet_exercicio\obj\Debug\net8.0\poo_dotnet_exercicio.csproj.CoreCompileInputs.cache
+C:\Users\sinic\OneDrive\Desktop\Códigos e Projetos\Projeto_DotNet_Revisao\3_poo_dotnet\poo_dotnet_exercicio\obj\Debug\net8.0\poo_dotnet_exercicio.sourcelink.json
+C:\Users\sinic\OneDrive\Desktop\Códigos e Projetos\Projeto_DotNet_Revisao\3_poo_dotnet\poo_dotnet_exercicio\obj\Debug\net8.0\poo_dotnet_exercicio.dll
+C:\Users\sinic\OneDrive\Desktop\Códigos e Projetos\Projeto_DotNet_Revisao\3_poo_dotnet\poo_dotnet_exercicio\obj\Debug\net8.0\refint\poo_dotnet_exercicio.dll
+C:\Users\sinic\OneDrive\Desktop\Códigos e Projetos\Projeto_DotNet_Revisao\3_poo_dotnet\poo_dotnet_exercicio\obj\Debug\net8.0\poo_dotnet_exercicio.pdb
+C:\Users\sinic\OneDrive\Desktop\Códigos e Projetos\Projeto_DotNet_Revisao\3_poo_dotnet\poo_dotnet_exercicio\obj\Debug\net8.0\poo_dotnet_exercicio.genruntimeconfig.cache
+C:\Users\sinic\OneDrive\Desktop\Códigos e Projetos\Projeto_DotNet_Revisao\3_poo_dotnet\poo_dotnet_exercicio\obj\Debug\net8.0\ref\poo_dotnet_exercicio.dll
