@@ -33,8 +33,6 @@ namespace poo_dotnet_exercicio
             }
         }
 
-        public Cliente(){}
-
         public Cliente(string nome, string cpf, string email)
         {
             Nome = nome;
@@ -44,7 +42,7 @@ namespace poo_dotnet_exercicio
 
         public static void Apresentar(Cliente c)
         {
-            Console.WriteLine($"\nNome: {c.Nome} | CPF: {c.cpf} | E-mail: {c.email}");
+            Console.WriteLine($"Nome: {c.Nome} | CPF: {c.cpf} | E-mail: {c.email}");
         }
 
     }

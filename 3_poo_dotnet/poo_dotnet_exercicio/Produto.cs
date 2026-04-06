@@ -9,10 +9,10 @@ namespace poo_dotnet_exercicio
     {
         // Atributos
         public string Nome { get; set; }
-        private decimal preco;
+        private double preco;
         private int estoque;
 
-        public decimal Preco
+        public double Preco
         {
             get { return preco; }
             set
@@ -34,9 +34,21 @@ namespace poo_dotnet_exercicio
             }
         }
 
-        public int DiminuirEstoque(int qtde)
+        public Produto(string nome, double preco, int estoque)
         {
-            return estoque - qtde;
+            Nome = nome;
+            Preco = preco;
+            Estoque = estoque;
+        }
+
+        public void DiminuirEstoque(int qtde)
+        {
+            estoque -= qtde;
+        }
+
+        public static void Apresentar(Produto p)
+        {
+            Console.WriteLine($"Nome: {p.Nome} | Preço: {p.preco} | Estoque: {p.estoque}");
         }
     }
 }
