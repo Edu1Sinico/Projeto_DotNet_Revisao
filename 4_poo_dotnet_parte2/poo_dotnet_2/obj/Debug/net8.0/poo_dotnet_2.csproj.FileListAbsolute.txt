@@ -1,0 +1,15 @@
+C:\Users\B 789\Downloads\Projeto_DotNet_Revisao\4_poo_dotnet_parte2\poo_dotnet_2\obj\Debug\net8.0\poo_dotnet_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B 789\Downloads\Projeto_DotNet_Revisao\4_poo_dotnet_parte2\poo_dotnet_2\obj\Debug\net8.0\poo_dotnet_2.AssemblyInfoInputs.cache
+C:\Users\B 789\Downloads\Projeto_DotNet_Revisao\4_poo_dotnet_parte2\poo_dotnet_2\obj\Debug\net8.0\poo_dotnet_2.AssemblyInfo.cs
+C:\Users\B 789\Downloads\Projeto_DotNet_Revisao\4_poo_dotnet_parte2\poo_dotnet_2\obj\Debug\net8.0\poo_dotnet_2.csproj.CoreCompileInputs.cache
+C:\Users\B 789\Downloads\Projeto_DotNet_Revisao\4_poo_dotnet_parte2\poo_dotnet_2\obj\Debug\net8.0\poo_dotnet_2.sourcelink.json
+C:\Users\B 789\Downloads\Projeto_DotNet_Revisao\4_poo_dotnet_parte2\poo_dotnet_2\bin\Debug\net8.0\poo_dotnet_2.exe
+C:\Users\B 789\Downloads\Projeto_DotNet_Revisao\4_poo_dotnet_parte2\poo_dotnet_2\bin\Debug\net8.0\poo_dotnet_2.deps.json
+C:\Users\B 789\Downloads\Projeto_DotNet_Revisao\4_poo_dotnet_parte2\poo_dotnet_2\bin\Debug\net8.0\poo_dotnet_2.runtimeconfig.json
+C:\Users\B 789\Downloads\Projeto_DotNet_Revisao\4_poo_dotnet_parte2\poo_dotnet_2\bin\Debug\net8.0\poo_dotnet_2.dll
+C:\Users\B 789\Downloads\Projeto_DotNet_Revisao\4_poo_dotnet_parte2\poo_dotnet_2\bin\Debug\net8.0\poo_dotnet_2.pdb
+C:\Users\B 789\Downloads\Projeto_DotNet_Revisao\4_poo_dotnet_parte2\poo_dotnet_2\obj\Debug\net8.0\poo_dotnet_2.dll
+C:\Users\B 789\Downloads\Projeto_DotNet_Revisao\4_poo_dotnet_parte2\poo_dotnet_2\obj\Debug\net8.0\refint\poo_dotnet_2.dll
+C:\Users\B 789\Downloads\Projeto_DotNet_Revisao\4_poo_dotnet_parte2\poo_dotnet_2\obj\Debug\net8.0\poo_dotnet_2.pdb
+C:\Users\B 789\Downloads\Projeto_DotNet_Revisao\4_poo_dotnet_parte2\poo_dotnet_2\obj\Debug\net8.0\poo_dotnet_2.genruntimeconfig.cache
+C:\Users\B 789\Downloads\Projeto_DotNet_Revisao\4_poo_dotnet_parte2\poo_dotnet_2\obj\Debug\net8.0\ref\poo_dotnet_2.dll
