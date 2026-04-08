@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\B 789\\.nuget\\packages\\": {}
+    "C:\\Users\\Aluno\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\B 789\\Downloads\\Projeto_DotNet_Revisao\\4_poo_dotnet_parte2\\poo_dotnet_2\\poo_dotnet_2.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno\\Documents\\Projeto_DotNet_Revisao\\4_poo_dotnet_parte2\\poo_dotnet_2\\poo_dotnet_2.csproj",
       "projectName": "poo_dotnet_2",
-      "projectPath": "C:\\Users\\B 789\\Downloads\\Projeto_DotNet_Revisao\\4_poo_dotnet_parte2\\poo_dotnet_2\\poo_dotnet_2.csproj",
-      "packagesPath": "C:\\Users\\B 789\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\B 789\\Downloads\\Projeto_DotNet_Revisao\\4_poo_dotnet_parte2\\poo_dotnet_2\\obj\\",
+      "projectPath": "C:\\Users\\Aluno\\Documents\\Projeto_DotNet_Revisao\\4_poo_dotnet_parte2\\poo_dotnet_2\\poo_dotnet_2.csproj",
+      "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Aluno\\Documents\\Projeto_DotNet_Revisao\\4_poo_dotnet_parte2\\poo_dotnet_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\B 789\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"

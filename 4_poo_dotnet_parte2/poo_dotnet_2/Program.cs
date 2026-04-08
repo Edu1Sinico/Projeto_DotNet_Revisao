@@ -30,4 +30,12 @@ internal class Program
         // Reutilização: Funcionario não precisa redefinir
         // Nome, Idade, Apresentar() - já vêm da classe Pessoa!
     }
+
+    /* Ficou faltando estudar os seguintes tópicos (focar em casa):
+        • Casting - Conversão de Tipos
+        • Operador is - Verificar Tipo
+        • Operador as - Cast Seguro
+        • Pattern Matching - Recurso Moderno
+        • Interface Segregation - Preview SOLID
+    */
 }
