@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sinic\\OneDrive\\Desktop\\Códigos e Projetos\\Projeto_DotNet_Revisao\\3_poo_dotnet\\poo_dotnet_exercicio\\poo_dotnet_exercicio.csproj",
+      "projectUniqueName": "C:\\Users\\sinic\\OneDrive\\Desktop\\Códigos e Projetos\\Projeto_DotNet_Revisao\\3_poo_dotnet\\poo_dotnet_exercicio1\\poo_dotnet_exercicio.csproj",
       "projectName": "poo_dotnet_exercicio",
-      "projectPath": "C:\\Users\\sinic\\OneDrive\\Desktop\\Códigos e Projetos\\Projeto_DotNet_Revisao\\3_poo_dotnet\\poo_dotnet_exercicio\\poo_dotnet_exercicio.csproj",
+      "projectPath": "C:\\Users\\sinic\\OneDrive\\Desktop\\Códigos e Projetos\\Projeto_DotNet_Revisao\\3_poo_dotnet\\poo_dotnet_exercicio1\\poo_dotnet_exercicio.csproj",
       "packagesPath": "C:\\Users\\sinic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sinic\\OneDrive\\Desktop\\Códigos e Projetos\\Projeto_DotNet_Revisao\\3_poo_dotnet\\poo_dotnet_exercicio\\obj\\",
+      "outputPath": "C:\\Users\\sinic\\OneDrive\\Desktop\\Códigos e Projetos\\Projeto_DotNet_Revisao\\3_poo_dotnet\\poo_dotnet_exercicio1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sinic\\AppData\\Roaming\\NuGet\\NuGet.Config"
